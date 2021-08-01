@@ -46,6 +46,14 @@ body {
       color: #ffffff;
   }
 
+.nombre{
+        
+    font-weight: 400;
+    font-size: 20px;
+    color:  #21618c;
+    
+  }
+
 
   .hamburguer{
       position: fixed;
